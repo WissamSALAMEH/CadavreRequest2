@@ -1,1 +1,1 @@
-C'est l'histoire d'un gars qui voulait traverser la rivière. Il a d'abord aperçu un mouton, puis il a aperçu un cerf, puis un loup.....Et lorsqu'il s'est aperçu qu'il était trop tard pour fuire, il s'est jeté à 
+C'est l'histoire d'un gars qui voulait apprendre à programmer, il s'adressa d'abord à un vendeur de fromage en lui demandant comment on fait. Le gars s'est foutu de sa gueule. Il s'adressa ensuite à un restaurant. El là, il se 
